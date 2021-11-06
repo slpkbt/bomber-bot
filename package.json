@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bomber-api": "^2.0.0",
+    "telegraf": "^3.38.0"
+  }
+}
