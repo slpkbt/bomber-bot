@@ -48,6 +48,6 @@ npm i
 ![Кофинг](https://i.imgur.com/jLdlkdY.png)
 
 - ##### token - токен [бота](https://t.me/botfather)
-- ##### adminlist - список пользователей, которые могут использовать бота.  Вставьте туда свой [id](https://t,me/@getmyid_bot)
+- ##### adminlist - список пользователей, которые могут использовать бота.  Вставьте туда свой [id](https://t.me/@getmyid_bot)
 
 ![сс](https://i.imgur.com/Uvi7vbb.png)
