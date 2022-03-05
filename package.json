@@ -2,8 +2,5 @@
   "dependencies": {
     "bomber-api": "^2.0.0",
     "telegraf": "^3.38.0"
-  },
-  "devDependencies": {
-    "@architect/sandbox": "^5.1.2"
   }
 }
